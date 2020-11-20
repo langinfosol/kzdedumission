@@ -1,4 +1,4 @@
-INDIGO_WELCOME_MESSAGE: "Edu Mission Kozhikode - Powering knowledge"
+INDIGO_WELCOME_MESSAGE: "Powering knowledge"
 INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
 
 # Footer links are dictionaries with a "title" and "url"
