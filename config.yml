@@ -1,5 +1,5 @@
 INDIGO_WELCOME_MESSAGE: "Powering knowledge"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_PRIMARY_COLOR: "#C743D9" # cool blue
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
